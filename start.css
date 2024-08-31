@@ -1,0 +1,12 @@
+body {
+    text-align: center; /* 텍스트와 이미지를 가운데 정렬 */
+}
+img {
+    display: block;
+    margin: 30px 80px 40px 620px; /* 마진 조절 */
+}
+
+#unique-image {
+    display: block;
+    margin: 30px 80px 40px 530px; /* 특정 이미지를 지정하여 마진 조절 */
+}
